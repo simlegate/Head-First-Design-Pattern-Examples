@@ -1,4 +1,4 @@
-Head-First-Design-Pattern-Examples
+Head First Design Pattern Examples
 ==================================
 
-complete examples on Head First Design Pattern in Ruby 
+Implement examples from Head First Design Pattern in Ruby
